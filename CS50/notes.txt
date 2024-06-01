@@ -1,0 +1,14 @@
+# Functions & Variables 
+
+User commnets to project structure 
+
+eg. 
+# Ask user for their name
+
+
+# Say hello to user
+
+
+str = string in python
+print("hello, ", end = "")
+print(f"hello , {name}")
